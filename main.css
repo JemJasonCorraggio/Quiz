@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+h1{
+    margin-left: auto;
+    margin-right: auto;
+    width:fit-content;
+}
+.button{
+    padding:10px;
+    width:fit-content;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    text-decoration: none;
+}
+.question{
+    font-size: 20px;
+    padding:10px;
+    width:fit-content;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul{
+    list-style: none;
+}
+.stats{
+    padding:10px;
+    width:fit-content;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hidden{
+    display: none;
+    background-color: blue;
+}
