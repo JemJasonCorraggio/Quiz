@@ -74,4 +74,4 @@ function loadQuestion(state){
 function renderAnswers(array){
     var answerList = array.map(function(item){return "<li class='incorrect button'>"+item+"</li>"});
     $("ul.answers").html(answerList);
-}
+} 
